@@ -17,10 +17,9 @@ Event simulation and reconstruction:
 + Investigate non-purturbative process for muon events.  
 + Apply BDT to event reconstruction.
 ### Theoretical
-#### Research:
-**Neutrinos & Yang-Mills solitons** (*Advisor: Prof. Haijun Wang, Jilin University*)  
-+ See-saw mechanism.  
-+ Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. Investigate properties of angular momentum for these monopoles and generalize them to gauge fields. Explain the results from gauge fixing and string perspectives.  
+#### Research: 
++ See-saw mechanism.(*Advisor: Prof. Haijun Wang, Jilin University*)   
++ Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles.(*Advisor: Prof. Haijun Wang, Jilin University*)   
 #### Projects & course work:
 + Matter effects for sterile neutrinos in MiniBooNE. (*Instructor: Prof. Michael Wilking, Stony Brook University*)  
 + Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Instructor: Prof. Warren Siegel, YITP, Stony Brook University*)   
