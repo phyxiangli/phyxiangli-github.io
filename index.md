@@ -5,6 +5,8 @@
       <p><b>Incoming PhD student at UC San Diego</b></p>
       <br/>
       <p><b>Undergrad at Jilin University</b></p>
+      <br/>
+      <p>Research interests: HEP-ex & HEP-ph</p>
     </td>
     <td width="25%">
       <img src="1.jpg" width="100%">      
