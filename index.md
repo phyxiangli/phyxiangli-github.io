@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/phyxiangli/phyxiangli-github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phyxiangli/phyxiangli-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Research Interests & Experience
+### Current: 
+**BESIII, CGEM, Undergraduate thesis, Jilin University & IHEP.** *Advisor: Prof. Weimin Song, Prof. Liangliang Wang, Prof. Linghui Wu, Prof. Gang Li*
+Improvement for sampling efficiency for avalanche electrons in CGEM for BESIII. 
+### Previous:
+#### Experimental
+**NEXT Experiment (0vββ), Visiting Research Fellow at Harvard University.** *Advisor: Prof. Roxanne Guenette*
+Update of NEXT-100 detector:
++Perform reflectance measurement for different PTFE to increase capacity of photon gathering in NEXT-100.
++Set up an evaporation chamber to coat the PTFE with wavelength shifer.
++Investigate the performence of matelen array put in front of Silicon PMs: Simulate the performance and calculate the efficiency. 
+**T2K Experiment, Visiting Student at Stony Brook University.** *Advisor: Prof. Michael Wilking*
+Event simulation and reconstruction:
++Simulate events of weak interaction in superK with SKDETSIM.
++Reconstruct the events by FiTQun with 3D & 6D light scattering tables and compare the reconstrction qualities.
++Investigate non-purturbative process for muon events. 
++Apply BDT to event reconstruction.
+#### Theoretical
+##### Research:
+**Neutrinos & Yang-Mills solitons** *Advisor: Prof. Haijun Wang, Jilin University*
++See-saw mechanism
++Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. Investigate properties of angular momentum for these monopoles and generalize them to gauge field. Explain the results from gauge fixing and string perspectives.
+##### Projects & course work:
++Matter effects for sterile neutrinos in MiniBooNE. (*Instructor: Prof. Michael Wilking, Stony Brook University*)
++Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Instructor: Prof. Warren Siegel, YITP, Stony Brook University*) 
+## Publication:
+*A paper about my work in Harvard is in progress*
+## Contact Info
+**Work:** xiangli@ucsd.edu
+**Personal:** xiang.li.215@outlook.com & xiang.li.aex@gmail.com
