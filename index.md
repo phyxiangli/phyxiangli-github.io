@@ -4,6 +4,7 @@
       <h1>Xiang Li</h1>
       <p><b>Incoming PhD student at UC San Diego</b></p>
       <p><b>Undergrad at Jilin University</b></p>
+      <p><b>Email: xiangli@ucsd.edu, xiang.li.215@outlook.com, xiang.li.aex@gmail.com</b></p>
     </td>
     <td width="25%">
       <img src="1.jpg" width="100%">      
